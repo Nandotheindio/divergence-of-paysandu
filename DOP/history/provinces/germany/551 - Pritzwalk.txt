@@ -1,5 +1,5 @@
 owner=X30
-controller=BRN
+controller=POM
 add_core=BRN
 add_core=HLR
 add_core=X30

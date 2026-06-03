@@ -1,5 +1,5 @@
 owner=X02
-controller=X02
+controller=POM
 add_core=HLR
 add_core=X02
 trade_goods = fish

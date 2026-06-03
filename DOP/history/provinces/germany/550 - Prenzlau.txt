@@ -1,5 +1,5 @@
 owner=X30
-controller=X30
+controller=POM
 add_core=HLR
 add_core=X30
 trade_goods = cattle

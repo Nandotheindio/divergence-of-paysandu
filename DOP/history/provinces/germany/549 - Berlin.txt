@@ -1,5 +1,5 @@
 owner=ANH
-controller=ANH
+controller=POM
 add_core=ANH
 add_core=HLR
 add_core=X30
