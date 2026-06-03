@@ -1,0 +1,6 @@
+owner=LNG
+controller=LNG
+add_core=LNG
+trade_goods = tea
+life_rating = 32
+terrain = hills

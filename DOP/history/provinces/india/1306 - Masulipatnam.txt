@@ -1,0 +1,7 @@
+owner=X14
+controller=X14
+add_core=X14
+add_core=X29
+trade_goods = grain
+life_rating = 32
+terrain = plains

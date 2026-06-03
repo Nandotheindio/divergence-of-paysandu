@@ -1,0 +1,8 @@
+owner=IRE
+controller=IRE
+add_core=IRE
+add_core=SRI
+add_core=X14
+trade_goods = dye
+life_rating = 32
+terrain = farmlands

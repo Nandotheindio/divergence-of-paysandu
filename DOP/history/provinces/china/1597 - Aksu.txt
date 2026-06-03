@@ -1,0 +1,7 @@
+owner=GUG
+controller=GUG
+add_core=GUG
+add_core=X07
+trade_goods = sulphur
+life_rating = 32
+terrain = mountain

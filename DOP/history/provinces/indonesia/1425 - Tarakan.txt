@@ -1,0 +1,7 @@
+owner=BAU
+controller=BAU
+add_core=BAU
+add_core=KTI
+trade_goods = timber
+life_rating = 15
+terrain = mountain

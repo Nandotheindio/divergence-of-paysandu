@@ -1,0 +1,7 @@
+owner=X23
+controller=GUG
+add_core=GUG
+add_core=X23
+trade_goods = coal
+life_rating = 32
+terrain = hills

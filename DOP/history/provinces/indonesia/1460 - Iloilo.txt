@@ -1,0 +1,6 @@
+owner=MDS
+controller=MDS
+add_core=MDS
+trade_goods = fish
+life_rating = 30
+terrain = plains

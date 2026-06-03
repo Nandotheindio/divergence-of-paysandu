@@ -1,0 +1,8 @@
+owner=FIN
+controller=DEN
+add_core=DEN
+add_core=FIN
+add_core=HLR
+trade_goods = grain
+life_rating = 35
+terrain = farmlands

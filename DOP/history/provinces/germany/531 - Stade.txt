@@ -1,0 +1,8 @@
+owner=SAX
+controller=BRE
+add_core=BRE
+add_core=HLR
+add_core=SAX
+trade_goods = cattle
+life_rating = 40
+terrain = plains

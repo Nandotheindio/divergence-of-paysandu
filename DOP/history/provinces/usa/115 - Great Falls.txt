@@ -1,0 +1,6 @@
+owner=X50
+controller=X50
+trade_goods = cattle
+life_rating = 35
+terrain = steppe
+colonial=1

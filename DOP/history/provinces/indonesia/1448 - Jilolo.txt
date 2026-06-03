@@ -1,0 +1,5 @@
+owner=TTE
+controller=TTE
+trade_goods = fish
+life_rating = 30
+terrain = plains

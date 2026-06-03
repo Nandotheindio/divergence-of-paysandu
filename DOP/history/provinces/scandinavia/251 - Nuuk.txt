@@ -1,0 +1,12 @@
+owner=IRE
+controller=IRE
+add_core=IRE
+trade_goods = fish
+life_rating = 35
+terrain = arctic
+state_building=
+{
+	level=1
+	building = furniture_factory
+	upgrade = yes
+}

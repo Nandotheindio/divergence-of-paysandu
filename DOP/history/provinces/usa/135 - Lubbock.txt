@@ -1,0 +1,7 @@
+owner=BLZ
+controller=MEX
+add_core=BLZ
+add_core=MEX
+trade_goods = sulphur
+life_rating = 35
+terrain = steppe

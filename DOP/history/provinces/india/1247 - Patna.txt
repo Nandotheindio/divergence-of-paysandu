@@ -1,0 +1,8 @@
+owner=BNG
+controller=BNG
+add_core=BNG
+add_core=X12
+add_core=X15
+trade_goods = opium
+life_rating = 32
+terrain = plains

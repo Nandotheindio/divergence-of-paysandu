@@ -1,0 +1,12 @@
+owner=ATH
+controller=ATH
+add_core=ATH
+trade_goods = tobacco
+life_rating = 35
+terrain = hills
+state_building=
+{
+	level=1
+	building = small_arms_factory
+	upgrade = yes
+}

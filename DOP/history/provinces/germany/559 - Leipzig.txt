@@ -1,0 +1,7 @@
+owner=X41
+controller=X41
+add_core=HLR
+add_core=X41
+trade_goods = coal
+life_rating = 40
+terrain = plains

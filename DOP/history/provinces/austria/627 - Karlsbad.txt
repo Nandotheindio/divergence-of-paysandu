@@ -1,0 +1,7 @@
+owner=SLV
+controller=SLV
+add_core=HLR
+add_core=SLV
+trade_goods = iron
+life_rating = 35
+terrain = hills

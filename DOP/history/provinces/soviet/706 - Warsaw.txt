@@ -1,0 +1,8 @@
+owner=X21
+controller=X21
+add_core=HLR
+add_core=X21
+add_core=X39
+trade_goods = cattle
+life_rating = 35
+terrain = farmlands

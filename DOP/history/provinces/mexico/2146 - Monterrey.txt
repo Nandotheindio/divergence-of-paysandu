@@ -1,0 +1,12 @@
+owner=BLZ
+controller=BLZ
+add_core=BLZ
+trade_goods = grain
+life_rating = 35
+terrain = plains
+state_building=
+{
+	level=1
+	building = glass_factory
+	upgrade = yes
+}

@@ -1,0 +1,8 @@
+owner=SRB
+controller=POL
+add_core=HLR
+add_core=POL
+add_core=SRB
+trade_goods = grain
+life_rating = 40
+terrain = plains

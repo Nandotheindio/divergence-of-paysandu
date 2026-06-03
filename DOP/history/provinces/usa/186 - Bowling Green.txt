@@ -1,0 +1,6 @@
+owner=X45
+controller=X45
+trade_goods = cattle
+life_rating = 35
+terrain = woods
+colonial=1

@@ -1,0 +1,7 @@
+owner=SRI
+controller=SRI
+add_core=SRI
+add_core=X14
+trade_goods = tea
+life_rating = 32
+terrain = plains

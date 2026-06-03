@@ -1,0 +1,7 @@
+owner=NOV
+controller=X44
+add_core=NOV
+add_core=X44
+trade_goods = iron
+life_rating = 35
+terrain = forest

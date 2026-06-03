@@ -1,0 +1,12 @@
+owner=NOV
+controller=NOV
+add_core=NOV
+trade_goods = cattle
+life_rating = 35
+terrain = farmlands
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

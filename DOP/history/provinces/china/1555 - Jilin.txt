@@ -1,0 +1,7 @@
+owner=MHX
+controller=MHX
+add_core=MHX
+add_core=MJZ
+trade_goods = iron
+life_rating = 32
+terrain = plains

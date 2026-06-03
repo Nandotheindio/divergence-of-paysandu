@@ -1,0 +1,8 @@
+owner=LNG
+controller=KRC
+add_core=KHA
+add_core=KRC
+add_core=LNG
+trade_goods = iron
+life_rating = 32
+terrain = plains

@@ -1,0 +1,7 @@
+owner=MEM
+controller=MEM
+add_core=HLR
+add_core=MEM
+trade_goods = timber
+life_rating = 40
+terrain = plains

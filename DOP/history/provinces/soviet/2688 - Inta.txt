@@ -1,0 +1,6 @@
+owner=NVG
+controller=NVG
+add_core=NVG
+trade_goods = fish
+life_rating = 15
+terrain = arctic

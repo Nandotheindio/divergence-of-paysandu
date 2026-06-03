@@ -1,0 +1,7 @@
+owner=MEI
+controller=MEI
+add_core=HLR
+add_core=MEI
+trade_goods = iron
+life_rating = 40
+terrain = woods

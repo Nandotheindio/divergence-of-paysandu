@@ -1,0 +1,7 @@
+owner=KAS
+controller=KAS
+add_core=KAS
+add_core=X16
+trade_goods = cotton
+life_rating = 32
+terrain = mountain

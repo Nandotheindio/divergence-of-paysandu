@@ -1,0 +1,8 @@
+owner=X35
+controller=X27
+add_core=HLR
+add_core=X27
+add_core=X35
+trade_goods = fruit
+life_rating = 35
+terrain = mountain

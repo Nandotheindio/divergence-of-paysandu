@@ -1,0 +1,7 @@
+owner=X18
+controller=X16
+add_core=X16
+add_core=X18
+trade_goods = cotton
+life_rating = 32
+terrain = hills

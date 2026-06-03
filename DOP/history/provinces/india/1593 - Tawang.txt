@@ -1,0 +1,8 @@
+owner=X17
+controller=X17
+add_core=GUG
+add_core=KWN
+add_core=X17
+trade_goods = cattle
+life_rating = 30
+terrain = mountain

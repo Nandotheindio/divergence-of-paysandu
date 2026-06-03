@@ -1,0 +1,12 @@
+owner=CUB
+controller=CUB
+add_core=CUB
+trade_goods = tobacco
+life_rating = 35
+terrain = hills
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}

@@ -1,0 +1,8 @@
+owner=MPA
+controller=MPA
+add_core=HSE
+add_core=MNI
+add_core=MPA
+trade_goods = opium
+life_rating = 35
+terrain = mountain

@@ -1,0 +1,6 @@
+owner=X50
+controller=X50
+add_core=X50
+trade_goods = grain
+life_rating = 35
+terrain = steppe

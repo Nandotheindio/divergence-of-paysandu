@@ -1,0 +1,8 @@
+owner=ANH
+controller=ANH
+add_core=ANH
+add_core=HLR
+add_core=X30
+trade_goods = fruit
+life_rating = 42
+terrain = farmlands

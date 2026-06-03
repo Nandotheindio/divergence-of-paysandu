@@ -1,0 +1,7 @@
+owner=X07
+controller=AKH
+add_core=AKH
+add_core=X07
+trade_goods = coal
+life_rating = 25
+terrain = hills

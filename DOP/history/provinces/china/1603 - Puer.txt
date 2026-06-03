@@ -1,0 +1,7 @@
+owner=LNG
+controller=LNG
+add_core=LNG
+add_core=MMA
+trade_goods = tea
+life_rating = 32
+terrain = jungle

@@ -1,0 +1,7 @@
+owner=X49
+controller=X49
+add_core=LSK
+add_core=X49
+trade_goods = timber
+life_rating = 35
+terrain = forest

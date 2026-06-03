@@ -1,0 +1,7 @@
+owner=X13
+controller=X08
+add_core=X08
+add_core=X13
+trade_goods = fish
+life_rating = 35
+terrain = plains

@@ -1,0 +1,7 @@
+owner=X28
+controller=X00
+add_core=X00
+add_core=X28
+trade_goods = grain
+life_rating = 30
+terrain = mountain

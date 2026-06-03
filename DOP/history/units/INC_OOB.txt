@@ -1,0 +1,39 @@
+#Sphere of Influence
+
+INC = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Pachacuti"
+	date="1438.1.1"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=2298
+	ship = {
+		name="1st Incan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Incan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Incan Clipper Transport"
+		type=clipper_transport
+	}
+}
+

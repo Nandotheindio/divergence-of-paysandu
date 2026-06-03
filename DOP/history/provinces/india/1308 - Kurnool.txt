@@ -1,0 +1,8 @@
+owner=X18
+controller=X18
+add_core=GUJ
+add_core=KRN
+add_core=X18
+trade_goods = tea
+life_rating = 32
+terrain = plains

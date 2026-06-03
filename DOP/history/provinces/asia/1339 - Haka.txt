@@ -1,0 +1,7 @@
+owner=KAX
+controller=KAX
+add_core=KAX
+add_core=MYA
+trade_goods = tropical_wood
+life_rating = 35
+terrain = jungle
