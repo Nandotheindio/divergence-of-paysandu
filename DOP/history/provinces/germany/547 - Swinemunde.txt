@@ -1,6 +1,6 @@
-owner=X05
+owner=POM
 controller=POM
-add_core=HLR
+add_core=POM
 add_core=X05
 trade_goods = fruit
 life_rating = 40

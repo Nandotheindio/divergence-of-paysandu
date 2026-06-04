@@ -1,5 +1,6 @@
-owner=LAU
+owner=POM
 controller=POM
+add_core=POM
 add_core=HLR
 add_core=LAU
 trade_goods = grain

@@ -1,5 +1,6 @@
-owner=X30
+owner=POM
 controller=POM
+add_core=POM
 add_core=BRN
 add_core=HLR
 add_core=X30
